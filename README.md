@@ -1,3 +1,5 @@
+Autor David Cervantes
+Grabar datos nuevos
 basico1
 =======
 
